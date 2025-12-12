@@ -1349,7 +1349,8 @@ const BakeBloomWebsite = () => {
             opacity: 0.6,
             fontFamily: 'Lato, sans-serif'
           }}>
-            © 2024 BakeBloom by Boboh. All rights reserved. Made with ❤️ in Nairobi.
+            © 2026 BakeBloom by Boboh. All rights reserved. Made with ❤️ in Gatanga.
+            © {new Date().getFullYear()} <a href="https://ianotollo.vercel.app" target="_blank" rel="noopener noreferrer" className="footer-link">Ian Otollo</a>. All rights reserved.
           </p>
         </div>
       </footer>
