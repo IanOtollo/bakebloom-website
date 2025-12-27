@@ -4,7 +4,7 @@ import { Mail, Phone, Lock, CheckCircle, CreditCard, Smartphone } from 'lucide-r
 const BakeBloomWebsite = () => {
   // ===== PAYMENT GATE CONTROL =====
   // Change to 'false' after client pays, then redeploy
-  const SHOW_PAYMENT_GATE = false;
+  const SHOW_PAYMENT_GATE = true;
   
   // DEVELOPER PAYMENT DETAILS
   const PAYMENT_INFO = {
