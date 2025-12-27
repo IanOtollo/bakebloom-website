@@ -4,7 +4,7 @@ import { Mail, Phone, Lock, CheckCircle, CreditCard, Smartphone } from 'lucide-r
 const BakeBloomWebsite = () => {
   // ===== PAYMENT GATE CONTROL =====
   // Change to 'false' after client pays, then redeploy
-  const SHOW_PAYMENT_GATE = true;
+  const SHOW_PAYMENT_GATE = false;
   
   // DEVELOPER PAYMENT DETAILS
   const PAYMENT_INFO = {
@@ -12,7 +12,7 @@ const BakeBloomWebsite = () => {
     mpesaNumber: "0700 399 641",
     paybill: "714777",
     accountNumber: "254700399641",
-    whatsapp: "254700399641"
+    whatsapp: "254112993859"
   };
   // ================================
 
